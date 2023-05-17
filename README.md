@@ -1,2 +1,3 @@
 # 0001.github.io
-My first trial of building a website based on S.Sudan 
+A freecodecamp project; Building a tribute page.
+Choose to build a tribute for the late Dr. John Garang Mabior, whose was arguably the greatest leader in South Sudan history. 
