@@ -11,7 +11,7 @@ image {
 	font-size: 15;
 }
 #image {
-  height: auto;
+  height: 90vh;
   justify-content: center;
   max-width: 98%;
   height: auto;
